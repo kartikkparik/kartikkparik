@@ -1,24 +1,130 @@
+# 👋 Hi, I'm **Kartik Pareek**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartikk_parik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kartikkparik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kartikpareek717@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kartikkparik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kartikkparik&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkparik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kartikkparik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kartikkparik&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://img.shields.io/badge/B.Tech%20CSE%20(2nd%20Year)-Poornima%20University%2C%20Jaipur-blue?style=for-the-badge" alt="Education">
+  <img src="https://img.shields.io/badge/Specialization-AI%2FML-brightgreen?style=for-the-badge" alt="Specialization">
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kartikkparik&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 About Me
+
+I'm a passionate **B.Tech Computer Science student** at Poornima University, Jaipur, specializing in **Artificial Intelligence & Machine Learning**. I'm driven by the goal of building intelligent systems that solve real-world problems through data science and deep learning.
+
+Currently, I'm **actively learning, building projects, and exploring internship opportunities** to apply my theoretical knowledge to practical challenges. My focus is on:
+- **Machine Learning & Deep Learning** architectures
+- **Natural Language Processing (NLP)** and text intelligence
+- Building scalable, production-ready ML solutions
+
+I believe in continuous learning and hands-on problem-solving. Always open to collaborations, hackathons, and challenging projects! 🚀
+
+---
+
+## 🛠️ **Tech Stack**
+
+### **Core Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### **AI/ML & Data Science**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikkparik&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=30363D" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkparik&theme=dark&hide_border=true&layout=compact&bg_color=0D1117&border_color=30363D" alt="Top Languages" width="48%">
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kartikkparik&theme=dark&hide_border=true&background=0D1117" alt="Streak Stats" width="60%">
+</div>
+
+---
+
+## 🏆 **Achievements & Recognition**
+
+- 🎓 **B.Tech CSE Student** - Poornima University, Jaipur
+- 🧠 **AI/ML Specialization** - Focus on ML & NLP
+- 💻 **Active Developer** - Regular contributions & project building
+- 🔍 **Internship Ready** - Seeking opportunities in AI/ML domain
+- 🤝 **Open Source Enthusiast** - Passionate about collaborative development
+
+---
+
+## 📂 **Featured Projects**
+
+*Projects coming soon! Check back for latest updates or visit my repositories for ongoing work.*
+
+**Areas of Focus:**
+- 🤖 Machine Learning model implementations
+- 🧠 NLP applications & text processing
+- 📊 Data analysis & visualization
+- 🔬 Experimental AI/ML projects
+
+---
+
+## 🎯 **Current Focus & Goals**
+
+| Goal | Status |
+|------|--------|
+| **Learn Advanced Deep Learning** | 🔄 In Progress |
+| **Build Production-Ready ML Projects** | 🔄 In Progress |
+| **Contribute to Open Source** | 📋 Planned |
+| **Secure AI/ML Internship** | 🔍 Open to Opportunities |
+| **Master NLP Fundamentals** | 🔄 In Progress |
+
+---
+
+## 🤝 **Let's Connect!**
+
+I'm always excited to:
+- 💬 Discuss AI/ML concepts and innovations
+- 🤝 Collaborate on interesting projects
+- 📚 Share knowledge and learn from others
+- 🔗 Build meaningful professional relationships
+
+### **Connect With Me:**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikkparik)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kartikk_parik)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kartikkparik)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+</div>
+
+---
+
+## 📝 **Fun Facts**
+
+- 🧠 Passionate about understanding how neural networks learn
+- 🌐 Interested in NLP applications for Indian languages
+- 🚀 Dream: Build AI solutions that make a real-world impact
+- ☕ Fuel: Coffee + Coding + Machine Learning papers
+
+---
+
+<div align="center">
+
+### 💡 *"AI is not about creating intelligent machines. It's about augmenting human capabilities."*
+
+**Thanks for visiting my profile! Feel free to reach out or star any project you find interesting!** ⭐
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=kartikkparik&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
